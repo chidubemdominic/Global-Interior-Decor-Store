@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.btn{
+  background-color: orange;
+  padding:10px 10px 10px 10px;
+  border: 1px solid;
+ color: white;
+ float: right;
+ transition: all .3s;
+ border-radius: 20px;
+ }
+ 
+ .btn:hover{
+   background-color: green;
+   cursor: pointer;
+ }
